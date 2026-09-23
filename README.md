@@ -100,13 +100,13 @@ business-performance-dashboard/
 
 ## 📸 Aperçu
 
-```
+
 <img width="878" height="386" alt="img4" src="https://github.com/user-attachments/assets/c8f05faf-440d-499d-91d5-ccfabebb5dfd" />
 <img width="874" height="382" alt="img3" src="https://github.com/user-attachments/assets/d313a4c7-c305-424a-b053-aa662477859d" />
 <img width="878" height="388" alt="img2" src="https://github.com/user-attachments/assets/a9a1ffcd-1b4e-4753-b24e-4db658c055a1" />
 <img width="878" height="386" alt="img1" src="https://github.com/user-attachments/assets/f9e38b24-ec3e-4453-94c5-0d1346958d59" />
 
-```
+
 ## 🤖 Composante IA intégrée
  
 Le rapport `.pbix` est organisé en **2 pages** :
