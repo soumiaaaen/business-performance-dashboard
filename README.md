@@ -135,7 +135,3 @@ Encadré par : Prof. Meryem Fakhouri Amr.
 | _Nom Prénom_ | [@username](https://github.com/username) |
 | _Nom Prénom_ | [@username](https://github.com/username) |
 
-
-## 📄 Licence
-
-Ce projet est distribué sous licence MIT — voir le fichier [LICENSE](LICENSE) pour plus de détails.
