@@ -130,8 +130,8 @@ Encadré par : Prof. Meryem Fakhouri Amr.
  
 | Nom | GitHub |
 |---|---|
-| AMERKAD SOUMIA | [@username]([https://github.com/username](https://github.com/soumiaaaen)) |
-| IBAARAREN Fatima | [@username]([https://github.com/username](https://github.com/IBAARARENfatima-source)) |
+| AMERKAD SOUMIA | [@soumiaaaen]([https://github.com/username](https://github.com/soumiaaaen)) |
+| IBAARAREN Fatima | [IBAARARENfatima-source]([https://github.com/username](https://github.com/IBAARARENfatima-source)) |
 | _Nom Prénom_ | [@username](https://github.com/username) |
 | _Nom Prénom_ | [@username](https://github.com/username) |
 
